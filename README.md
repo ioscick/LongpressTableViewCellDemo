@@ -1,1 +1,2 @@
 # LongpressTableViewCellDemo
+一个简单的手势和tableView的结合运用。通过长按手势的各种状态，新加一个snap，修改tableviewCell的背景颜色，在视觉上感觉到将cell从tableview上拿了出来，然后通过`exchangeObjectAtIndex`方式，这个方法去修改tableviewCell的位置。
